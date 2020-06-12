@@ -1,0 +1,15 @@
+h1 {
+  text-align: left;
+  font-family: Georgia;
+  font-size: 35px;
+  background-color: rgb(196, 215, 245);
+}
+.navbar {
+  margin-bottom: 0;
+  background-color: rgb(196, 215, 245);
+}
+.nav-link {
+  font-size: large;
+  text-decoration-color: slateblue;
+ 
+}
