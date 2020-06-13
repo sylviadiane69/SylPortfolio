@@ -1,23 +1,23 @@
-// import React from "react";
-// import "../styles/Header.css";
+import React from "react";
+import "../styles/Header.css";
 
-// const styles = {
-//   headerStyle: {
-//     background: "lightblue"
-//   },
-//   headingStyle: {
-//     fontSize: 100
-//   }
-// };
+const styles = {
+  headerStyle: {
+    background: "lightblue"
+  },
+  headingStyle: {
+    fontSize: 100
+  }
+};
 
-// // We use JSX curly braces to evaluate the style object
+// We use JSX curly braces to evaluate the style object
 
-// function Header() {
-//   return (
-//     <header style={styles.headerStyle} className="header">
-//       <h1 style={styles.headingStyle}>Employee Directory</h1>
-//     </header>
-//   );
-// }
+function Header() {
+  return (
+    <header style={styles.headerStyle} className="header">
+      <h1 style={styles.headingStyle}>Sylvia Ramirez-Soto</h1>
+    </header>
+  );
+}
 
-// export default Header;
+export default Header;
