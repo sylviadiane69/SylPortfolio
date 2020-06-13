@@ -2,42 +2,42 @@
     {
         "id": 0,
         "name": "GetFed",
-        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "image": "GetFed.png",
         "occupation": "Fry Cook",
         "location": "A Pineapple Under the Sea"
     },
     {
         "id": 1,
         "name": "VirusVices",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "image": "VirusVices.png",
         "occupation": "Restaurant Owner",
         "location": "A Giant Anchor"
     },
     {
         "id": 2,
         "name": "Password Generator",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "image": "generator.png",
         "occupation": "Cashier",
         "location": "An Easter Island Head"
     },
     {
         "id": 3,
         "name": "workoutTracker",
-        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "image": "workout.png",
         "occupation": "Fry Cook",
         "location": "A Pineapple Under the Sea"
     },
     {
         "id": 4,
         "name": "TrkBudget",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "image": "BT3.png",
         "occupation": "Restaurant Owner",
         "location": "A Giant Anchor"
     },
     {
         "id": 5,
         "name": "Fanpage",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "image": "Fanpage.png",
         "occupation": "Cashier",
         "location": "An Easter Island Head"
     }
