@@ -7,7 +7,6 @@ function Navbar() {
   return (
     <nav className="navbar">
       <Link className="navbar-brand" to="/">
-        <h1>Sylvia Ramirez-Soto</h1>
       </Link>
       <div>
         <ul className="navbar-nav">
