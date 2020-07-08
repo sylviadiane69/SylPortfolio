@@ -2,11 +2,8 @@ import React from "react";
 import "./App.css"
 import About from "./components/About"
 import Footer from "./components/Footer";
-
 import Header from "./components/Header";
 import Card from "./components/Card";
-
-
 
 
 function App() {

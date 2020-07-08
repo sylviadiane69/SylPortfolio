@@ -21,7 +21,6 @@ function Projects() {
 
   };
 
-
   return (
 
     <Container>
