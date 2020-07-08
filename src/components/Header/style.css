@@ -1,16 +1,10 @@
 .header {
-  font-family: Georgia;
-  min-height: 50px;
+  min-height: 100px;
   position: relative;
-  font-size: 40px;
-  text-decoration: steelblue;
+  text-align: center;
+  font-family: Georgia;
+  text-align: left;
 }
 
-.header span {
-  text-align: left;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 3px;
-}
+
+  
